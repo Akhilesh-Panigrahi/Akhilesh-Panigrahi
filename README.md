@@ -78,7 +78,7 @@ The project reads authorized IP addresses, compares them against a removal list,
 - Logging
 - Unit Testing
 
-🔗 **[View Project →](https://github.com/YOUR_USERNAME/python-ip-allowlist-automation)**
+🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/python-ip-allowlist-automation)**
 
 ---
 
@@ -97,7 +97,7 @@ The project identifies potential threats and vulnerabilities and develops recomm
 - Security Recommendations
 - Remediation Planning
 
-🔗 **[View Project →](https://github.com/YOUR_USERNAME/vulnerability-assessment)**
+🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/vulnerability-assessment)**
 
 ---
 
@@ -116,7 +116,7 @@ The analysis applies concepts from the **NIST Cybersecurity Framework** to struc
 - Security Documentation
 - Recovery Planning
 
-🔗 **[View Project →](https://github.com/YOUR_USERNAME/incident-response-analysis)**
+🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/incident-response-analysis)**
 
 ---
 
@@ -136,7 +136,7 @@ The project demonstrates how security policies can be translated into Linux perm
 - User & Group Management
 - Least Privilege
 
-🔗 **[View Project →](https://github.com/YOUR_USERNAME/linux-file-permissions)**
+🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/linux-file-permissions)**
 
 ---
 
@@ -158,7 +158,7 @@ The project demonstrates how security analysts can use database queries to filte
 - `NOT`
 - `LIKE`
 
-🔗 **[View Project →](https://github.com/YOUR_USERNAME/sql-security-investigation)**
+🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/sql-security-investigation)**
 
 ---
 
@@ -178,7 +178,7 @@ The project identifies security gaps and recommends improvements aligned with fr
 - Security Best Practices
 - Gap Analysis
 
-🔗 **[View Project →](https://github.com/YOUR_USERNAME/security-controls-compliance)**
+🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/security-controls-compliance)**
 
 ---
 
@@ -198,7 +198,7 @@ The project demonstrates the process of documenting, investigating, and respondi
 - tcpdump
 - VirusTotal
 
-🔗 **[View Project →](https://github.com/YOUR_USERNAME/incident-handlers-journal)**
+🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/incident-handlers-journal)**
 
 ---
 
