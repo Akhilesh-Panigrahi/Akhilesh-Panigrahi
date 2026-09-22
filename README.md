@@ -2,78 +2,45 @@
 
 ### 🛡️ Aspiring Cybersecurity Analyst | Computer Science & Information Security
 
-I'm an aspiring **Cybersecurity Professional** with a strong foundation in **Computer Science and Information Security**, currently completing my **A.S. in Computer Science and Information Security**.
+I'm an aspiring **Cybersecurity Analyst** with a background in **Computer Science and Information Security**, currently pursuing my **B.S. in Computer Science & Information Security**.
 
-I'm passionate about understanding how systems work, identifying security weaknesses, automating security tasks, and developing practical solutions to real-world cybersecurity problems.
+I enjoy understanding how systems work, identifying security weaknesses, analyzing security data, and building practical tools that automate security-related tasks.
 
-I'm currently focused on building hands-on projects that strengthen my skills in **security operations, Python, Linux, SQL, networking, vulnerability assessment, incident response, and security automation**.
+My current focus is developing hands-on experience across **security operations, incident response, vulnerability assessment, network security, SQL, Python, Linux, and security automation**.
 
 ---
 
 ## 🎓 About Me
 
-- 🎓 **A.S./B.S. in Computer Science and Information Security**
+- 🎓 **B.S. in Computer Science & Information Security** — Currently pursuing
+- 🎓 **A.S. in Computer Science & Information Security** — Completed
 - 🛡️ **ISC2 Certified in Cybersecurity (CC)**
 - 🔐 **Google Cybersecurity Professional Certificate**
 - 🌐 **Cisco Cybersecurity Certification**
-- 💻 Experience building cybersecurity and programming projects
-- 🎯 Currently pursuing opportunities as an **Entry-Level Cybersecurity Analyst**
+- 💻 Building cybersecurity and software engineering projects
+- 🎯 Seeking opportunities as an **Entry-Level Cybersecurity Analyst**
 
-I believe cybersecurity is best learned through **hands-on practice**, which is why I'm continuously building, documenting, and improving projects that demonstrate practical security concepts.
-
----
-
-## 🛠️ Skills & Tools
-
-| Programming | Cybersecurity | Tools & Platforms |
-|-------------|---------------|-------------------|
-| Python | Security Automation | GitHub |
-| C++ | Vulnerability Assessment | GitHub Codespaces |
-| SQL | Incident Response | Linux |
-| Bash | Access Control | Wireshark |
-| | Risk Assessment | Splunk |
-| | Network Security | SQL |
-| | Security Controls | Cisco |
-| | SIEM Concepts | |
+I believe cybersecurity is best learned through **hands-on practice**, which is why I build, document, test, and continuously improve projects that demonstrate practical security concepts.
 
 ---
 
-## 🚀 What I'm Currently Working On
+# 🛡️ Cybersecurity Portfolio
 
-I'm building a collection of **portfolio-focused cybersecurity projects** designed to demonstrate practical technical skills rather than simply completing coursework.
-
-My projects focus on areas such as:
-
-- 🔐 Security Automation
-- 🐍 Python for Cybersecurity
-- 🐧 Linux Security
-- 🗄️ SQL Security Analysis
-- 🚨 Incident Response
-- 🔎 Vulnerability Assessment
-- 📊 Security Monitoring & SIEM
-- 🛡️ Access Control & Security Policies
-
-Each project is being developed with an emphasis on:
-
-**Documentation → Implementation → Testing → Security Concepts → Lessons Learned**
-
----
-
-# 🛡️ Cybersecurity Projects
+My cybersecurity projects focus on developing practical skills that can be applied to security operations and analyst roles.
 
 ## 🐍 Python IP Allow List Automation
 
-Automated the maintenance of an IP allow list using Python.
+Built a Python-based security automation tool that maintains an IP allow list by comparing authorized addresses against a removal list.
 
-The project reads authorized IP addresses, compares them against a removal list, validates the addresses, removes unauthorized entries, and generates an updated allow list.
+The application validates IP addresses, handles errors, logs activity, removes unauthorized addresses, and generates an updated allow list.
 
 **Skills demonstrated:**
 
 - Python
 - Security Automation
-- File I/O
 - IP Address Validation
 - Access Control
+- File I/O
 - Error Handling
 - Logging
 - Unit Testing
@@ -82,76 +49,18 @@ The project reads authorized IP addresses, compares them against a removal list,
 
 ---
 
-## 🔎 NIST-SP-800-30-Vulnerability-Assessment
-
-Conducted a vulnerability assessment of a database server and performed risk analysis using **NIST SP 800-30** concepts.
-
-The project identifies potential threats and vulnerabilities and develops recommendations for reducing organizational risk.
-
-**Skills demonstrated:**
-
-- Vulnerability Assessment
-- Risk Analysis
-- Threat Modeling
-- NIST SP 800-30
-- Security Recommendations
-- Remediation Planning
-
-🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/NIST-SP-800-30-Vulnerability-Assessment
-)**
-
----
-
-## 🚨 Incident Report Analysis
-
-Analyzed a simulated **Distributed Denial-of-Service (DDoS)** security incident and documented an appropriate response and recovery strategy.
-
-The analysis applies concepts from the **NIST Cybersecurity Framework** to structure the incident response process.
-
-**Skills demonstrated:**
-
-- Incident Response
-- DDoS Analysis
-- Network Security
-- NIST Cybersecurity Framework
-- Security Documentation
-- Recovery Planning
-
-🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/incident-response-analysis)**
-
----
-
-## 🔐 Linux File Permissions & Access Control
-
-Practiced managing Linux file and directory permissions to enforce appropriate access restrictions.
-
-The project demonstrates how security policies can be translated into Linux permissions using command-line tools.
-
-**Skills demonstrated:**
-
-- Linux
-- Bash
-- File Permissions
-- `chmod`
-- `ls -la`
-- User & Group Management
-- Least Privilege
-
-🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/linux-file-permissions)**
-
----
-
 ## 🗄️ SQL Security Investigation
 
-Used SQL queries to investigate potentially suspicious database activity, including failed login attempts and login activity associated with specific locations.
+Built a SQL-based security investigation workflow for analyzing authentication and employee data.
 
-The project demonstrates how security analysts can use database queries to filter and investigate relevant security events.
+The project uses SQL queries to investigate failed login activity, identify login attempts associated with specific dates and locations, and filter employee records based on organizational attributes.
 
 **Skills demonstrated:**
 
 - SQL
 - Security Investigations
 - Database Querying
+- Authentication Log Analysis
 - Data Filtering
 - `WHERE`
 - `AND`
@@ -163,84 +72,134 @@ The project demonstrates how security analysts can use database queries to filte
 
 ---
 
-## 📋 Security Controls & Compliance Assessment
+## 🔎 NIST SP 800-30 Vulnerability Assessment
 
-Evaluated an organization's security posture using a controls and compliance checklist.
+Conducted a vulnerability assessment of a database server using **NIST SP 800-30 Rev. 1** concepts.
 
-The project identifies security gaps and recommends improvements aligned with frameworks and regulations including **PCI DSS, GDPR, and SOC-related controls**.
+The assessment identifies threat sources, evaluates likelihood and impact, determines risk levels, and develops remediation recommendations focused on authentication, authorization, auditing, encryption, and network security.
 
 **Skills demonstrated:**
 
+- Vulnerability Assessment
+- Risk Analysis
+- Threat Identification
+- NIST SP 800-30
+- Risk Registers
+- Remediation Planning
 - Security Controls
-- Compliance
-- Risk Assessment
-- PCI DSS
-- GDPR
-- Security Best Practices
-- Gap Analysis
+- Network Security
 
-🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/security-controls-compliance)**
+🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/NIST-SP-800-30-Vulnerability-Assessment)**
 
 ---
 
 ## 🕵️ Incident Handler's Journal
 
-Documented the analysis of simulated security incidents, including ransomware and malicious file activity.
+Documented simulated cybersecurity incidents and investigation activities involving ransomware, malicious files, and network traffic analysis.
 
-The project demonstrates the process of documenting, investigating, and responding to security events using tools and techniques associated with incident handling.
+The project includes practical exposure to **Wireshark, tcpdump, and VirusTotal**, while documenting incident context, investigation steps, and response considerations.
 
 **Skills demonstrated:**
 
-- Incident Analysis
+- Incident Response
 - Incident Documentation
 - Ransomware Analysis
 - Phishing Analysis
+- Network Traffic Analysis
 - Wireshark
 - tcpdump
 - VirusTotal
+- Security Investigation
 
 🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/incident-handlers-journal)**
 
 ---
 
-# 💻 Programming Projects
+# 💻 Programming & Computer Science Projects
 
-## 🔄 C++ Data Structures & Algorithms
+Alongside cybersecurity projects, I build C++ projects that strengthen my understanding of **data structures, algorithms, object-oriented programming, and problem solving**.
 
-Built and practiced C++ data structures and algorithms through hands-on programming projects.
+## 🔐 GCD Cryptography
 
-Projects include implementations involving linked lists, control flow, arrays, and algorithmic problem solving.
+A C++17 implementation centered around the **Euclidean Algorithm** and number theory concepts, with applications related to cryptography including RSA operations and Miller–Rabin primality testing.
+
+**Skills demonstrated:**
+
+- C++17
+- Algorithms
+- Number Theory
+- Cryptography Concepts
+- RSA
+- Primality Testing
+- Data Structures
+
+🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/GCD_Cryptography)**
+
+---
+
+## 🎵 Circular Audio Engine
+
+A high-performance C++ audio playlist engine built around a **custom Doubly Circular Linked List** topology.
+
+The project demonstrates recursive playback traversal and object-oriented encapsulation.
 
 **Skills demonstrated:**
 
 - C++
 - Data Structures
-- Algorithms
+- Doubly Linked Lists
+- Circular Linked Lists
+- Recursion
 - Object-Oriented Programming
-- Pointers
-- Dynamic Memory
-- Problem Solving
+- Data Structure Design
+
+🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/circular-audio-engine)**
 
 ---
 
-## 🔒 Security-Focused Programming
+## 🎮 Game Project — In Progress
 
-I'm also developing programming projects that apply software development concepts to cybersecurity problems.
+A C++ game development project currently under development.
 
-My goal is to become comfortable using programming not only to build applications, but also to:
+This project provides additional practice with software design, programming logic, and object-oriented development.
 
-- Automate security tasks
-- Analyze security data
-- Detect anomalies
-- Process logs
-- Investigate incidents
-- Build security tooling
+**Skills demonstrated:**
+
+- C++
+- Object-Oriented Programming
+- Programming Logic
+- Software Development
+- Problem Solving
+
+🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/Project-Game_in_progress)**
+
+---
+
+# 🛠️ Technical Skills
+
+| Category | Skills |
+|---|---|
+| **Programming** | Python, C++, SQL, Bash |
+| **Cybersecurity** | Security Operations, Incident Response, Vulnerability Assessment, Risk Analysis, Access Control, Security Automation |
+| **Networking** | TCP/IP, DNS, DHCP, VPN, Firewalls, Network Traffic Analysis |
+| **Security Tools** | Wireshark, tcpdump, VirusTotal, Splunk |
+| **Operating Systems** | Linux, Windows |
+| **Security Concepts** | SIEM, Authentication, Authorization, Least Privilege, Security Controls |
+| **Development** | Git, GitHub, GitHub Codespaces, Unit Testing |
 
 ---
 
 # 📜 Certifications
 
-### 🛡️ Google Cybersecurity Professional Certificate
+### 🛡️ ISC2 Certified in Cybersecurity (CC)
+
+**ISC2 — Certified in Cybersecurity**
+
+Foundational certification covering core cybersecurity concepts including security principles, network security, access controls, security operations, and incident response.
+
+---
+
+### 🔐 Google Cybersecurity Professional Certificate
 
 Completed the **Google Cybersecurity Professional Certificate**, developing foundational knowledge and hands-on experience across multiple cybersecurity domains.
 
@@ -257,25 +216,17 @@ Key areas include:
 
 ---
 
-### 🔐 ISC2 Certified in Cybersecurity (CC)
-
-**ISC2 — Certified in Cybersecurity**
-
-Demonstrates foundational knowledge of cybersecurity principles, security operations, network security, access controls, and incident response.
-
----
-
 ### 🌐 Cisco Cybersecurity Certification
 
 Completed cybersecurity-focused training through **Cisco**, strengthening foundational knowledge of networking and cybersecurity concepts.
 
 ---
 
-# 🧠 What I'm Learning
+# 🧠 What I'm Currently Learning
 
-I'm continuously expanding my cybersecurity knowledge in areas such as:
+I'm continuously developing my technical skills in areas including:
 
-```text
+```
 Security Operations
         ↓
 SIEM & Log Analysis
@@ -289,3 +240,36 @@ Vulnerability Management
 Security Automation
         ↓
 Cloud & Infrastructure Security
+```
+
+My goal is to continue moving from coursework → hands-on projects → security labs → real-world problem solving.
+
+---
+
+# 🚀 What I'm Building Toward
+
+I'm working toward becoming a well-rounded Cybersecurity Analyst with practical experience in:
+
+- 🔎 Investigating security events
+- 📊 Analyzing logs and security data
+- 🚨 Responding to incidents
+- 🛡️ Assessing vulnerabilities and risk
+- 🐍 Automating repetitive security tasks
+- 🌐 Understanding network activity
+- 🗄️ Using SQL to investigate security data
+- 🐧 Working with Linux environments
+- 💻 Building security-focused tools
+
+---
+
+# 📫 Connect With Me
+
+- 💼 **LinkedIn:** [Akhilesh Panigrahi](https://www.linkedin.com/in/akhilesh-panigrahi-)
+- 🐙 **GitHub:** [Akhilesh-Panigrahi](https://github.com/Akhilesh-Panigrahi)
+- 📧 **Email:** akhilesh.panigrahi1@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
+
+I'm continuously building, learning, and documenting my journey into cybersecurity.
