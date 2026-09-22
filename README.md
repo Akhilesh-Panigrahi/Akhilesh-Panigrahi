@@ -82,7 +82,7 @@ The project reads authorized IP addresses, compares them against a removal list,
 
 ---
 
-## 🔎 Vulnerability Assessment Report
+## 🔎 NIST-SP-800-30-Vulnerability-Assessment
 
 Conducted a vulnerability assessment of a database server and performed risk analysis using **NIST SP 800-30** concepts.
 
@@ -97,7 +97,8 @@ The project identifies potential threats and vulnerabilities and develops recomm
 - Security Recommendations
 - Remediation Planning
 
-🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/vulnerability-assessment)**
+🔗 **[View Project →](https://github.com/Akhilesh-Panigrahi/NIST-SP-800-30-Vulnerability-Assessment
+)**
 
 ---
 
